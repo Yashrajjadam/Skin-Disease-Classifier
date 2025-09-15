@@ -1,4 +1,4 @@
-# Disease-Classifier
+# Skin Disease-Classifier
 
 A dual‑modality deep‑learning pipeline for disease diagnosis that combines an image‑based and a text‑based model, then fuses their predictions by user‑specified weights.
 
